@@ -1,0 +1,52 @@
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.staticwebassets.runtime.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.exe
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.deps.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.runtimeconfig.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.pdb
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.RazorAssemblyInfo.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.RazorAssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\bundle\ExemploAspNetMvc.styles.css
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\projectbundle\ExemploAspNetMvc.bundle.scp.css
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\refint\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.pdb
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\SP3044505\ExemploAspNetMvc\obj\Debug\net6.0\ref\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.staticwebassets.runtime.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.exe
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.deps.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.runtimeconfig.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNetMvc.pdb
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.RazorAssemblyInfo.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.RazorAssemblyInfo.cs
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\bundle\ExemploAspNetMvc.styles.css
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\projectbundle\ExemploAspNetMvc.bundle.scp.css
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\refint\ExemploAspNetMvc.dll
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.pdb
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNetMvc.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\sp3045463 NÃO APAGA\LG3-ExemploAspNetMvc\obj\Debug\net6.0\ref\ExemploAspNetMvc.dll

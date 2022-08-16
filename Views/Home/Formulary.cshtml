@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "First Formulary";
+}
+
+<form action="FormDataTest" method="post"> @*post manda info na requisição, get manda na url. não é bom get em cadastro*@
+    <label for="name">Nome</label>
+    <input type="text" name="name" id="name">
+    <label for="email">E-mail</label>
+    <input type="text" name="email" id="email">
+    <button type="submit">Enviar</button>
+    @* <input type="submit" value="send"> *@
+</form>
